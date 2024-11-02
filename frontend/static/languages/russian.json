@@ -1,6 +1,7 @@
 {
   "name": "russian",
   "bcp47": "ru-RU",
+  "orderedByFrequency": true,
   "words": [
     "и",
     "в",
