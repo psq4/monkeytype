@@ -1,6 +1,8 @@
 {
   "name": "russian_contractions_1k",
   "bcp47": "ru-RU",
+  "noLazyMode": true,
+  "orderedByFrequency": false,
   "words": [
     "1-ый",
     "2-ой",
