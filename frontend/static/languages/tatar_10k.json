@@ -1,5 +1,7 @@
 {
   "name": "tatar_10k",
+  "bcp-47": "tt",
+  "orderedByFrequency": true,
   "words": [
     "һәм",
     "белән",
