@@ -1,6 +1,8 @@
 {
   "name": "russian_5k",
   "bcp47": "ru-RU",
+  "noLazyMode": true,
+  "orderedByFrequency": true,
   "words": [
     "и",
     "в",
