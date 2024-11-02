@@ -1,6 +1,8 @@
 {
   "name": "russian_abbreviations",
   "bcp47": "ru-RU",
+  "noLazyMode": true,
+  "orderedByFrequency": false,
   "words": [
     "АвтоВАЗ",
     "АК",
