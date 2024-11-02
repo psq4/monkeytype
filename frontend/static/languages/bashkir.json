@@ -1,5 +1,7 @@
 {
   "name": "bashkir",
+  "bcp-47": "ba",
+  "orderedByFrequency": true,
   "words": [
     "бер",
     "һәм",
